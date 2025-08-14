@@ -1,0 +1,11 @@
+name,age,height_cm,weight_kg,IS_MINOR,BMI
+Patient1,10,120,40,true,27
+Patient2,30,180,60,false,18
+Patient3,55,163,79,false,29
+Patient4,42,176,85,false,27
+Patient5,37,182,71,false,21
+Patient6,18,146,70,true,32
+Patient7,89,176,88,false,28
+Patient8,68,166,92,false,33
+Patient9,78,139,122,false,63
+Patient10,47,143,143,false,69

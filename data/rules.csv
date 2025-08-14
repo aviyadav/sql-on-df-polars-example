@@ -1,0 +1,3 @@
+rule_condition, output_column
+age < 21, IS_MINOR
+round(weight_kg*100*100 / (height_cm*height_cm)), BMI
