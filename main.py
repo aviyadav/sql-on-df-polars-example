@@ -36,7 +36,7 @@ df_query = f"select * , {rule_sql} from pl_df"
 
 result_df = pl.sql(df_query).collect()
 
-# print(result_df)
+print(result_df)
 # print(result_df.shape)
 # print(result_df.columns)
 # print(result_df.head())
